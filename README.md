@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Computer Science student passionate about building practical software and solving real-world problems through technology. I enjoy working across the stack, with a strong focus on backend systems, automation, and AI-powered applications.
+I’m a Computer Science student major about building practical software and solving real-world problems through technology. I enjoy working across the stack, with a strong focus on backend systems, automation, and AI-powered applications.
 
 I have experience building scalable APIs, implementing secure authentication systems such as **SSO using SAML**, integrating **third-party APIs and Large Language Models (LLMs)**, and developing automation pipelines to streamline workflows.
 
