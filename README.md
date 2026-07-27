@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer | Systems Architecture & AI Integrations**
 
-I engineer scalable backend systems, robust enterprise security layers, and high-performance frontend interfaces. Currently pursuing my BS in Computer Science (Class of 2026), I specialize in bridging complex architectural challenges—from multi-tenant SaaS platforms to AI-powered data pipelines—into highly optimized, production-ready applications.
+I engineer scalable backend systems, robust enterprise security layers, and high-performance frontend interfaces. Currently pursuing my BS in Computer Science (Class of 2026), I specialize in bridging complex architectural challenges, from multi-tenant SaaS platforms to AI-powered data pipelines, into highly optimized, production-ready applications.
 
 ---
 
@@ -10,7 +10,7 @@ I engineer scalable backend systems, robust enterprise security layers, and high
 *   **Systems & Infrastructure:** Deploying and managing containerized applications across modern cloud platforms.
 *   **Enterprise Security:** Implementing secure, passwordless authentication architectures (SAML 2.0 / OIDC via Microsoft Entra ID).
 *   **AI Automation:** Engineering asynchronous worker queues to process large-scale AI generation, RAG pipelines, and A/B testing algorithms.
-*   **Full Stack Execution:** Building seamless user experiences with Next.js and React, backed by high-availability Node.js and Express engines.
+*   **Full Stack Execution:** Building intuitive user experiences with Next.js and React, backed by high-availability Node.js and Express engines.
 
 ---
 
@@ -32,8 +32,8 @@ I engineer scalable backend systems, robust enterprise security layers, and high
 
 ### 📌 Featured Architecture & Projects
 
-*   **Saasifyy – Multi-Tenant SaaS Marketplace:** Architecting a comprehensive platform allowing developers to launch and scale SaaS products with automated site provisioning and instant customer checkout.
-*   **LookAtlas – AI Photography Platform:** Engineered automated data ingestion pipelines and asynchronous AI generation workflows, significantly reducing manual photography workloads.
+*   **Saasifyy | Multi-Tenant SaaS Marketplace:** Architecting a comprehensive platform allowing developers to launch and scale SaaS products with automated site provisioning and instant customer checkout.
+*   **LookAtlas | AI Photography Platform:** Engineered automated data ingestion pipelines and asynchronous AI generation workflows, significantly reducing manual photography workloads.
 *   **Enterprise CTI Security:** Designed a hardened enterprise access control infrastructure utilizing SAML 2.0 and Microsoft Entra ID for zero-trust organizational identity management.
 *   **E-Commerce Optimization Engines:** Built advanced A/B testing frameworks leveraging dynamic cohort shifting to optimize conversion rates for Shopify embedded apps.
 
