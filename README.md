@@ -1,6 +1,14 @@
-# Hi, I'm Aryan Ahmad Khan 👋
+<h1 align="center">
+  Hi 👋, I'm Aryan Ahmad Khan
+</h1>
 
-**Full Stack Software Engineer | Systems Architecture & AI Integrations**
+<h3 align="center">
+  Full Stack Software Engineer | Systems Architecture | AI Integrations
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Systems+Architecture+%26+AI+Integrations;Building+Scalable+%26+Production-Ready+Systems;Exploring+Distributed+Systems+%26+Generative+AI" />
+</p>
 
 I engineer scalable backend systems, secure enterprise applications, and high-performance frontend interfaces. As a Computer Science graduate, I specialize in turning complex architectural requirements—from multi-tenant SaaS platforms to AI-powered data pipelines—into reliable, production-ready applications.
 
