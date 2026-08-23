@@ -8,7 +8,7 @@
   <strong>Full Stack Software Engineer • Systems Architecture • AI Integrations</strong>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Designing+Multi-Tenant+Architectures;Engineering+AI-Powered+Applications;Exploring+Distributed+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Designing+Multi-Tenant+Architectures;Engineering+AI-Powered+Applications" />
 
 </div>
 
